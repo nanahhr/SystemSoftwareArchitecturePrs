@@ -1,0 +1,6 @@
+pr1/pr1_cpp
+pr1/pr1_openmp
+pr1/pr1_openmp_optimized
+pr1/pr1_pthread
+pr1/*.log
+pr1/.vscode/
